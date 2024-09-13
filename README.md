@@ -12,8 +12,8 @@ Download my CV https://github.com/Monda254/My-journey/blob/main/Georgy%20Maina%2
 -Open Source Contribution: I believe in the power of the open-source community and its ability to foster innovation.
 
 ## 🛠️ Projects
-- [Project 1](link-to-project1): Brief description...
-- [Project 2](link-to-project2): Brief description...
+- [Project 1](https://github.com/Monda254/movies): This is is a movie app meant for clearing ones mind when tired of the world
+- [Project 2](https://github.com/Monda254/Gym-app): this is a gym app to give better info for healthy living
 
 ## 📬 Contact Me
 Feel free to reach out! 
