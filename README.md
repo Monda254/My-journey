@@ -4,7 +4,7 @@ I enjoy learning about the latest trends in development and am always keen on wo
 
 ## 🎓 Educational Background
 I hold a degree in Information Technology from Muranga University Of Technology.
-Download my CV 
+Download my CV https://github.com/Monda254/My-journey/blob/main/Georgy%20Maina%20%20Gichobi%20cv%20(Document%20(A4))%20(3)%20(1).pdf
 
 ## 💡 Interests
 -Web Development: Always exploring the latest trends and best practices to create responsive and functional websites.
